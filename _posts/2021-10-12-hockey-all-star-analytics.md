@@ -1,5 +1,5 @@
 ---
-layout: post-light-feature
+layout: post
 title: Data exploration for NHL teams
 categories: articles
 ---
