@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Data exploration for NHL teams
+description: "The subject matter for this project is hockey data, specifically the NHL stats API. In this article we perform exploratory data analysis"
+
 categories: articles
 tags: [sample post, images, test]
 ---
