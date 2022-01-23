@@ -53,7 +53,13 @@ url: "https://Hstellar.github.io" # the base hostname & protocol for your site
 #
 # !! You don't need to change any of the configuration flags below !!
 #
-
+links:
+  - title: About
+    url: /about
+  - title: Github
+    url: https://github.com/Hstellar
+    external: true
+    
 #permalink: /:title/
 permalink: /
 
