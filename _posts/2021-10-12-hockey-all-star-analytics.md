@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: Predicting expected goals for NHL teams
+title: Data exploration for NHL teams
 categories: articles
 ---
 
