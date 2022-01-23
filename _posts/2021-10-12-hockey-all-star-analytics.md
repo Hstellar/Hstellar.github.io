@@ -2,6 +2,7 @@
 layout: post
 title: Data exploration for NHL teams
 categories: articles
+tags: [sample post, images, test]
 ---
 
 The subject matter for this project is hockey data, specifically the NHL stats API. This data is very rich; it contains information from many years into the past ranging from metadata about the season itself (eg. how many games were played), to season standings, to player stats per season, to fine-grained event data for every game played, known play-by-play data. If you’re unfamiliar with play-by-play data, the NHL uses this exact data to generate their play-by-play visualizations, an example of which is shown below. For a single game, roughly 200-300 events are tracked, typically limited in scope to faceoffs, shots, goals, saves, and hits (no passes or individual player location). Note that there is a logical way the games are assigned a unique ID, which is described here (take care to note the difference between regular season and playoff games!).
