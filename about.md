@@ -1,9 +1,7 @@
 ---
 layout: post
 permalink: /about/index.html
-title: About the Theme
 tags: [about, Jekyll, theme, responsive]
-
 ---
 I am Master's student at University of Montreal and MILA. I am interested in building systems that generalize well like humans do and are interpretable.
 
