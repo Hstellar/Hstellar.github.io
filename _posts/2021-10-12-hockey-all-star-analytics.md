@@ -125,3 +125,5 @@ Tampa Bay Lightning 2019-20
 4)Looking Tampa Bay Lightning(TBL) contour plot and its color combination, Tampa Bay Lightning(TBL)team had better contour plots year by year in comparison to Buffalo Sabres(BUF). Since in graph of Buffalo Sabres had more greeness compared to Tampa Bay Lightning which refers that it had less number of shots than league average for different seasons.
 
 Refer to code in [git repository](https://github.com/DS-IFT6750-project-collaboration/Hockey-all-star-analytics) in notebook section and [ift6758-milestone1_tj.ipynb](https://github.com/DS-IFT6750-project-collaboration/Hockey-all-star-analytics/blob/main/ift6758-milestone1_tj.ipynb), [ift6758-milestone2_tj.ipynb](https://github.com/DS-IFT6750-project-collaboration/Hockey-all-star-analytics/blob/main/ift6758-milestone2_tj.ipynb)
+
+
