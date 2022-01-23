@@ -1,7 +1,4 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: http://jekyll.gtat.me
+
 # Name of your site (displayed in the header)
 name: Hena Ghonia
 
@@ -66,37 +63,67 @@ links:
 version: v1.2.0
 
 kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
 
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
+# Set the Sass partials directory, as we're using @imports
 sass:
-    style: :compressed
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
-
-
-
-essed # You might prefer to minify using :compressed
+  style: :compressed # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 plugins:
       - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
     #  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-# plugins:
-#   - jekyll-paginate
+
 # Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+  - command.txt
+  - todo.txt
+  - _temp/index.html
+  - _temp/
+
+# kramdown:
+#   auto_ids: true
+#   footnote_nr: 1
+#   entity_output: as_char
+#   toc_levels: 1..6
+#   use_coderay: false
+
+#   coderay:
+#     coderay_line_numbers:
+#     coderay_line_numbers_start: 1
+#     coderay_tab_width: 4
+#     coderay_bold_every: 10
+#     coderay_css: class
+
+# sass:
+#     style: :compressed
+
+# # https://github.com/mojombo/jekyll/wiki/Permalinks
+# permalink:   /:categories/:title
+
+# include: [".htaccess"]
+# exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+
+
+
+# essed # You might prefer to minify using :compressed
+
+# # Use the following plug-ins
+# plugins:
+#       - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+#     #  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+# # plugins:
+# #   - jekyll-paginate
+# # Exclude these files from your production _site
 
