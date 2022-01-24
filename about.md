@@ -3,12 +3,9 @@ layout: post
 permalink: /about/index.html
 tags: [about, Jekyll, theme, responsive]
 ---
-<table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-<tr style="padding:0px">
-<td style="padding:0px">
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-<tr style="padding:0px">
-<td style="padding:2.5%;width:60%;vertical-align:middle">
+<table>
+<tr>
+<td>
 <h2>
   Hena Ghonia
 </h2>
@@ -16,22 +13,18 @@ tags: [about, Jekyll, theme, responsive]
 <br>
 <br>
 Previously, I worked at Ecolab as part of Advanced data analytics team. I worked on projects requiring proof of concept using predictive analytics such as Pump efficiency prediction, Analysing paint defects for automotive customers and Wearable analytics.
-<br>
-<br>
+<br><br>
 I have Bachelor of Technology in Information and Communication Technology from Ahmedabad University.
 </p>
-<!-- <p> -->
-<!-- Before. -->
-<!-- </p> -->
 <p style="text-align:center">
-  <a href="mailto:henaghonia2015@gmail.com">Email</a> &nbsp/&nbsp
+  <a href="mailto:henaghonia2015@gmail.com">Email</a> &nbsp;/&nbsp;
   <a href="https://github.com/Hstellar">GitHub</a> &nbsp;/&nbsp;
   <!-- <a href="https://scholar.google.com/citations?user=0IWgVz4AAAAJ">Google Scholar</a> &nbsp;/&nbsp; -->
   <a href="https://www.linkedin.com/in/hena-ghonia-0876aa129/"> LinkedIn </a>
 </p>
 </td>
 <td style="padding:2.5%;width:20%;max-width:40%">
-<img style="max-width:100%" alt="profile photo" src="images/profile.jpeg">
+<img style="max-width:100%" alt="profile photo" src="/images/profile.jpeg">
 </td>
 </tr>
 </table>
