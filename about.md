@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 permalink: /about/index.html
 tags: [about, Jekyll, theme, responsive]
 ---
