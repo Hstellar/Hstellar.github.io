@@ -9,9 +9,9 @@ tags: [about, Jekyll, theme, responsive]
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 <tr style="padding:0px">
 <td style="padding:2.5%;width:60%;vertical-align:middle">
-<h1>
+<h2>
   Hena Ghonia
-</h1>
+</h2>
 <p>I am Master's student at University of Montreal and MILA. I am interested in building systems that generalize well like humans do and are interpretable.
 <br>
 <br>
@@ -25,7 +25,7 @@ I have Bachelor of Technology in Information and Communication Technology from A
 <!-- </p> -->
 <p style="text-align:center">
   <a href="mailto:henaghonia2015@gmail.com">Email</a> &nbsp/&nbsp
-  <a href="https://github.com/Hstellar">GitHub</a> &nbsp;/&nbsp
+  <a href="https://github.com/Hstellar">GitHub</a> &nbsp;/&nbsp;
   <!-- <a href="https://scholar.google.com/citations?user=0IWgVz4AAAAJ">Google Scholar</a> &nbsp;/&nbsp; -->
   <a href="https://www.linkedin.com/in/hena-ghonia-0876aa129/"> LinkedIn </a>
 </p>
