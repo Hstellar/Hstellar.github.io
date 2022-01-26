@@ -1,11 +1,11 @@
 ---
 layout: post-no-feature
 title: EDA between personalized immune repertoires and COVID-19 disease variables
-description: "To explore the relationship between personalized immune repertoires and COVID-19 disease variables and associated factors. This exploration is part of [Precision FDA competition](https://precision.fda.gov/challenges/12)."
+description: "To explore the relationship between personalized immune repertoires and COVID-19 disease variables and associated factors"
 categories: articles
 tags: [sample post, images, test]
 ---
-
+This exploration is part of [Precision FDA competition](https://precision.fda.gov/challenges/12)
 To effectively combat the widespread transmission of COVID-19 infection and save lives especially of those vulnerable individuals, it is imperative to better understand its pathophysiology to enable effective diagnosis, prognosis and treatment strategies using rapidly shared data.
 
 Immunology: There are two types of immune responses: innate and adaptive.
