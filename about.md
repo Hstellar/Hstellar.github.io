@@ -9,7 +9,7 @@ tags: [about, Jekyll, theme, responsive]
 <h2>
   Hena Ghonia
 </h2>
-<p>I am Master's student at University of Montreal and MILA. I am interested in building systems that generalize well like humans do and are interpretable.
+<p>I am Master's student at University of Montreal and MILA. I'm interested in creating systems that generalise well and can be interpreted, much like humans.
 <br>
 <br>
 Previously, I worked at Ecolab as part of Advanced data analytics team. I worked on projects requiring proof of concept using predictive analytics such as Pump efficiency prediction, Analysing paint defects for automotive customers and Wearable analytics.
