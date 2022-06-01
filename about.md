@@ -15,6 +15,7 @@ tags: [about, Jekyll, theme, responsive]
 Previously, I worked at Ecolab as part of Advanced data analytics team. I worked on projects requiring proof of concept using predictive analytics such as Pump efficiency prediction, Analysing paint defects for automotive customers and Wearable analytics.
 <br><br>
 I have Bachelor of Technology in Information and Communication Technology from Ahmedabad University.
+In my free time I enjoy playing Violin!
 </p>
 <p style="text-align:center">
   <a href="mailto:henaghonia2015@gmail.com">Email</a> &nbsp;/&nbsp;
@@ -33,7 +34,7 @@ I have Bachelor of Technology in Information and Communication Technology from A
 
 <h4>Predicting Diabetes Mellitus in ICU Patients</h4>
 <p>
-We developed a predictive machine learning model and explore a methods to interpret the results to improve our understanding of  medical data.<br>
+We developed a predictive machine learning model and explore a methods to interpret the results to improve our understanding of medical data.<br>
 Author: Hena Ghonia, Shanaya Mehta | Date: 2021-09-19 |
 <br> Venue: "Pycon India 2021" | <a href="/pdfs/Poster_PyconIndia_2021.pdf">Poster</a> <br> <br>
 </p>
