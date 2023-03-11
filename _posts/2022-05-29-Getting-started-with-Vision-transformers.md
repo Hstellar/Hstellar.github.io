@@ -6,4 +6,4 @@ categories: articles
 tags: [sample post, images, test]
 ---
 
-Medium post published : https://medium.com/@hena97/getting-started-with-vision-transformer-9ca06e56e139
+Medium post published : [Getting started with Vision Transformer](https://medium.com/@hena97/getting-started-with-vision-transformer-9ca06e56e139)
