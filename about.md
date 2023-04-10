@@ -10,8 +10,9 @@ tags: [about, Jekyll, theme, responsive]
   Hena Ghonia
 </h2>
 <p>I am Master's student at University of Montreal and MILA. I'm interested in creating systems that generalise well and can be interpreted, much like humans.
-<br>
-<br>
+<br><br>
+Recently, I interned at Hydro-Quebec where I am worked on uncertainty estimation of virtual sensor measurements if a sensor fails before end of commissioning using Deep Kernel methods.  
+<br><br>
 Previously, I worked at Ecolab as part of Advanced data analytics team. I worked on projects requiring proof of concept using predictive analytics such as Pump efficiency prediction, Analysing paint defects for automotive customers and Wearable analytics.
 <br><br>
 I have Bachelor of Technology in Information and Communication Technology from Ahmedabad University.
