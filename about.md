@@ -11,7 +11,7 @@ tags: [about, Jekyll, theme, responsive]
 </h2>
 <p>I am Master's student at University of Montreal and MILA. I'm interested in creating systems that generalise well and can be interpreted, much like humans.
 <br><br>
-Recently, I interned at Hydro-Quebec where I worked on uncertainty estimation of virtual sensor measurements if a sensor fails before end of commissioning using Deep Kernel methods.  
+I am currently interning with Professor Emma Frejinger at Mila - Quebec AI Institute, to develop a Light Gradient boosting package for multi output by writing scripts in C++/CUDA. I am also working on an open-source project on scaling time series transformer models. Recently, I interned at Hydro-Quebec where I worked on uncertainty estimation of virtual sensor measurements if a sensor fails before end of commissioning using Deep Kernel methods.  
 <br><br>
 Previously, I worked at Ecolab as part of Advanced data analytics team. I worked on projects requiring proof of concept using predictive analytics such as Pump efficiency prediction, Analysing paint defects for automotive customers and Wearable analytics.
 <br><br>
@@ -21,7 +21,7 @@ In my free time I enjoy playing Violin!
 <p style="text-align:center">
   <a href="mailto:henaghonia2015@gmail.com">Email</a> &nbsp;/&nbsp;
   <a href="https://github.com/Hstellar">GitHub</a> &nbsp;/&nbsp;
-  <!-- <a href="https://scholar.google.com/citations?user=0IWgVz4AAAAJ">Google Scholar</a> &nbsp;/&nbsp; -->
+  <a href="https://scholar.google.com/citations?user=2BIN194AAAAJ&hl=en">Google Scholar</a> &nbsp;/&nbsp;
   <a href="https://www.linkedin.com/in/hena-ghonia-0876aa129/"> LinkedIn </a>
 </p>
 </td>
@@ -30,7 +30,6 @@ In my free time I enjoy playing Violin!
 </td>
 </tr>
 </table>
-
 <h3>Presentation<br></h3>
 
 <h4>Predicting Diabetes Mellitus in ICU Patients</h4>
