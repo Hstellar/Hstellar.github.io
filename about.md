@@ -9,9 +9,9 @@ tags: [about, Jekyll, theme, responsive]
 <h2>
   Hena Ghonia
 </h2>
-<p>I am Master's student at University of Montreal and MILA. I'm interested in creating systems that generalise well and can be interpreted, much like humans.
+<p>I am Master's student at University of Montreal and MILA. I'm interested in creating systems that generalize well and can be interpreted, much like humans.
 <br><br>
-I am currently interning with Professor Emma Frejinger at Mila - Quebec AI Institute, to develop a Light Gradient boosting package for multi output by writing scripts in C++/CUDA. I am also working on an open-source project on scaling time series transformer models. Recently, I interned at Hydro-Quebec where I worked on uncertainty estimation of virtual sensor measurements if a sensor fails before end of commissioning using Deep Kernel methods.  
+I worked on an open-source project on scaling time series transformer models. Recently, I interned at Hydro-Quebec where I worked on uncertainty estimation of virtual sensor measurements if a sensor fails before end of commissioning using Deep Kernel methods.  
 <br><br>
 Previously, I worked at Ecolab as part of Advanced data analytics team. I worked on projects requiring proof of concept using predictive analytics such as Pump efficiency prediction, Analysing paint defects for automotive customers and Wearable analytics.
 <br><br>
@@ -30,6 +30,26 @@ In my free time I enjoy playing Violin!
 </td>
 </tr>
 </table>
+<h3>Publication<br></h3>
+<p>
+<a href="https://arxiv.org/pdf/2310.08278.pdf">Lag-Llama: Towards
+Foundation Models for Time Series Forecasting</a>
+<br>
+arXiv:2310.08278v1 [cs.LG] 12 Oct 2023
+<br>
+Kashif Rasul, Arjun Ashok, Andrew Robert Williams, Arian Khorasani, George Adamopoulos, Rishika Bhagwatkar, Marin Biloš, †Hena Ghonia, Nadhir Hassen, Anderson Schneider, Sahil Garg, Alexandre Drouin, Nicolas Chapados, Yuriy Nevmyvaka, Irina Rish
+</p>
+
+<p>
+<a href="https://openreview.net/pdf?id=RMnJxnLwGak">VQ-TR: Vector Quantized Attention for Time Series Forecasting</a>
+<br>
+KDD’23 Workshop on Mining and Learning from Time series 
+<br>
+Kashif Rasul, Umang Gupta, Hena Ghonia, Yuriy Nevmyvaka  
+</p>
+
+<h3>Reports<br></h3>
+
 <h3>Presentation<br></h3>
 
 <h4>Predicting Diabetes Mellitus in ICU Patients</h4>
