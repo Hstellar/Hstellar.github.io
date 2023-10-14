@@ -7,13 +7,14 @@ tags: [about, Jekyll, theme, responsive]
 <tr>
 <td>
 <p>I am Master's student at University of Montreal and MILA. I'm interested in creating systems that generalize well and can be interpreted, much like humans.
-<br>
+<br> <br>
 I worked on an open-source project on scaling time series transformer models. Recently, I interned at Hydro-Quebec where I worked on uncertainty estimation of virtual sensor measurements if a sensor fails before end of commissioning using Deep Kernel methods.  
 <br>
-Previously, I worked at Ecolab as part of Advanced data analytics team. I worked on projects requiring proof of concept using predictive analytics such as Pump efficiency prediction, Analysing paint defects for automotive customers and Wearable analytics.
-<br>
+Previously, I worked as Data Scientist at Ecolab as part of Advanced data analytics team. I worked on projects requiring proof of concept using predictive analytics such as Pump efficiency prediction, Analysing paint defects for automotive customers and Wearable analytics.
+<br> <br>
 I have Bachelor of Technology in Information and Communication Technology from Ahmedabad University.
 In my free time I enjoy playing Violin!
+
 </p>
 <p style="text-align:center">
   <a href="mailto:henaghonia2015@gmail.com">Email</a> &nbsp;/&nbsp;
