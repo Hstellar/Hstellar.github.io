@@ -47,7 +47,7 @@ Kashif Rasul, Umang Gupta, Hena Ghonia, Yuriy Nevmyvaka
 
 <h3>Reports<br></h3>
 <p>
-K. Mai, T. Sun, H. Ghonia, S. Ke, C. Yu, and J. Broomfield, <a "/pdfs/survey.pdf">A survey of compartmental disease models for predicting the progression of COVID-19, 2020</a>
+K. Mai, T. Sun, H. Ghonia, S. Ke, C. Yu, and J. Broomfield, <a href="/pdfs/survey.pdf">A survey of compartmental disease models for predicting the progression of COVID-19, 2020</a>
  </p> 
  
 <h3>Presentation<br></h3>
