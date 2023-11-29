@@ -6,14 +6,10 @@ tags: [about, Jekyll, theme, responsive]
 <table>
 <tr>
 <td>
-<p>I am Master's student at University of Montreal and MILA. I'm interested in creating systems that generalize well and can be interpreted, much like humans.
+<h2>Hena Ghonia</h2>  
+<p> I am research Intern/Consulatnt at <a href="https://www.irina-lab.ai/about">CERC AAI</a> lab working with Prof. Irina Rish. I recently completed my masters in Computer Science from Université de Montréal/Mila. I have worked in areas of Active learning, Uncertainty quantification and time series forecasting. I am interested in the intersection of machine learning and systems and intrigued by how machine learning changes the hardware and software architecture.
 <br> <br>
-I worked on an open-source project on scaling time series transformer models. Recently, I interned at Hydro-Quebec where I worked on uncertainty estimation of virtual sensor measurements if a sensor fails before end of commissioning using Deep Kernel methods.  
-<br>
-Previously, I worked as Data Scientist at Ecolab as part of Advanced data analytics team. I worked on projects requiring proof of concept using predictive analytics such as Pump efficiency prediction, Analysing paint defects for automotive customers and Wearable analytics.
-<br> <br>
-I have Bachelor of Technology in Information and Communication Technology from Ahmedabad University.
-In my free time I enjoy playing Violin!
+Previously, I was Intern at Hydro-Quebec and worked as an Associate Data Scientist at Ecolab. I have a Bachelor of Technology in Information and Communication Technology from Ahmedabad University. In my free time I enjoy playing Violin!
 
 </p>
 <p style="text-align:center">
