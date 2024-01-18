@@ -31,15 +31,15 @@ Foundation Models for Time Series Forecasting</a>
 <br>
 arXiv:2310.08278v1 [cs.LG] 12 Oct 2023
 <br>
-Kashif Rasul, Arjun Ashok, Andrew Robert Williams, Arian Khorasani, George Adamopoulos, Rishika Bhagwatkar, Marin Biloš, Hena Ghonia, Nadhir Hassen, Anderson Schneider, Sahil Garg, Alexandre Drouin, Nicolas Chapados, Yuriy Nevmyvaka, Irina Rish
+Kashif Rasul, Arjun Ashok, Andrew Robert Williams, Arian Khorasani, George Adamopoulos, Rishika Bhagwatkar, Marin Biloš, **Hena Ghonia**, Nadhir Hassen, Anderson Schneider, Sahil Garg, Alexandre Drouin, Nicolas Chapados, Yuriy Nevmyvaka, Irina Rish
 </p>
 
 <p>
-<a href="https://openreview.net/pdf?id=RMnJxnLwGak">VQ-TR: Vector Quantized Attention for Time Series Forecasting</a>
+<a href="[https://openreview.net/pdf?id=RMnJxnLwGak](https://openreview.net/forum?id=IxpTsFS7mh)">VQ-TR: Vector Quantized Attention for Time Series Forecasting</a>
 <br>
-KDD’23 Workshop on Mining and Learning from Time series 
+ICLR'24 Conference (to be presented)
 <br>
-Kashif Rasul, Umang Gupta, Hena Ghonia, Yuriy Nevmyvaka  
+Kashif Rasul, Andrew Bennett, Pablo Vicente, Umang Gupta, **Hena Ghonia**, Anderson Schneider, Yuriy Nevmyvaka
 </p>
 
 <h3>Reports<br></h3>
