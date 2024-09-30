@@ -7,9 +7,11 @@ tags: [about, Jekyll, theme, responsive]
 <tr>
 <td>
 <h2>Hena Ghonia</h2>  
-<p> I am Research Consultant at <a href="https://www.irina-lab.ai/about">CERC AAI</a> lab working with Prof. Irina Rish. I recently completed my masters in Computer Science from Université de Montréal/Mila. I have worked in areas of Active learning, Uncertainty quantification and time series forecasting. I am interested in the intersection of machine learning and systems and intrigued by how machine learning changes the hardware and software architecture.
+<p> I am a Researcher at Mila (<a href="https://www.irina-lab.ai/about">CERC AAI</a> lab) working with Prof. Irina Rish. I am looking for new opportunities related Machine learning and software engineering. If you are hiring let me know!  
+ <br><br> 
+I completed my masters in Computer Science from Université de Montréal/Mila. I have worked in areas of Active learning, Uncertainty quantification and time series forecasting. I am interested in the intersection of machine learning and systems and intrigued by how machine learning changes the hardware and software architecture.
 <br> <br>
-Previously, I was Intern at Hydro-Quebec and worked as an Associate Data Scientist at Ecolab. I have a Bachelor of Technology in Information and Communication Technology from Ahmedabad University. In my free time I enjoy playing Violin!
+Previously, I was Intern at Hydro-Quebec and worked as an Associate Data Scientist at Ecolab. I have a Bachelor of Technology in Information and Communication Technology from Ahmedabad University.
 
 Leave your anonymous feedback <a href="https://www.admonymous.co/henaghonia">here</a>!
 </p>
