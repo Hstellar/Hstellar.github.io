@@ -7,7 +7,7 @@ tags: [about, Jekyll, theme, responsive]
 <tr>
 <td>
 <h2>Hena Ghonia</h2>  
-<p> I am a Researcher at Mila (<a href="https://www.irina-lab.ai/about">CERC AAI</a> lab) working with Prof. Irina Rish. I am looking for new opportunities related Machine learning and software engineering. If you are hiring let me know!  
+<p> I am a Researcher at Mila (<a href="https://www.irina-lab.ai/about">CERC AAI</a> lab) working with Prof. Irina Rish. I am looking for new opportunities related to Machine learning and software engineering. If you are hiring let me know!  
  <br><br> 
 I completed my masters in Computer Science from Université de Montréal/Mila. I have worked in areas of Active learning, Uncertainty quantification and time series forecasting. I am interested in the intersection of machine learning and systems and intrigued by how machine learning changes the hardware and software architecture.
 <br> <br>
