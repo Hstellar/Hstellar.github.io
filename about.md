@@ -30,14 +30,24 @@ For collaboration and discussion schedule a <a href="https://calendly.com/ghonia
 </td>
 </tr>
 </table>
-<h3>Publication<br></h3>
+<h3>Workshop and Conference Publication<br></h3>
+<p>
+<a href="https://openreview.net/forum?id=HwDQH0r37I">General-Purpose Brain Foundation models for Time-Series NeuroImaging Data</a>
+<br>
+NeurIPS 2024 TSALM Workshop
+<br>
+MJ Bayazi, <strong>Hena Ghonia</strong>, Roland Riachi, Bruno Aristimunha, Arian Khorasani, Md Rifat Arefin, Amin Darabi, Guillaume
+Dumas, Irina Rish
+</p>
+
 <p>
 <a href="https://arxiv.org/pdf/2310.08278.pdf">Lag-Llama: Towards
 Foundation Models for Time Series Forecasting</a>
 <br>
 arXiv:2310.08278v1 [cs.LG] 12 Oct 2023
 <br>
-Kashif Rasul, Arjun Ashok, Andrew Robert Williams, Arian Khorasani, George Adamopoulos, Rishika Bhagwatkar, Marin Biloš, <strong>Hena Ghonia</strong>, Nadhir Hassen, Anderson Schneider, Sahil Garg, Alexandre Drouin, Nicolas Chapados, Yuriy Nevmyvaka, Irina Rish
+△Kashif Rasul, △Arjun Ashok, *Andrew Robert Williams, <strong>*Hena Ghonia</strong>, Rishika Bhagwatkar, Arian Khorasani, Mohammad Javad Darvishi Bayazi, George Adamopoulos, Roland Riachi, Nadhir Hassen, Marin Bilosˇ, Sahil Garg, Anderson Schneider, Nicolas Chapados, Alexandre Drouin, Valentina Zantedeschi, Yuriy Nevmyvaka, Irina Rish <br>
+△* : Equal contribution
 </p>
 
 <p>
