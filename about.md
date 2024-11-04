@@ -14,6 +14,9 @@ I completed my masters in Computer Science from Université de Montréal/Mila. I
 Previously, I was Intern at Hydro-Quebec and worked as an Associate Data Scientist at Ecolab. I have a Bachelor of Technology in Information and Communication Technology from Ahmedabad University.
 
 Leave your anonymous feedback <a href="https://www.admonymous.co/henaghonia">here</a>!
+
+For collaboration and discussion schedule a <a href="https://calendly.com/ghoniahena/30min">call</a>!
+
 </p>
 <p style="text-align:center">
   <a href="mailto:henaghonia2015@gmail.com">Email</a> &nbsp;/&nbsp;
