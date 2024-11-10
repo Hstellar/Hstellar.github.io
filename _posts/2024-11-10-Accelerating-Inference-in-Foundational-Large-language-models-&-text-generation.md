@@ -7,4 +7,24 @@ tags: [sample post, images, test]
 ---
 
 
-In progress
+### Trade offs
+
+#### The Quality vs Latency/Cost Tradeoff
+
+#### The Latency vs Cost Tradeoff
+
+### Output-approximating methods
+
+#### Quantization
+
+#### Distillation
+
+### Output-preserving methods
+
+#### Flash Attention
+
+#### Prefix Caching
+
+#### Speculative Decoding
+
+### Batching and Parallelization
