@@ -1,3 +1,10 @@
+---
+layout: post-no-feature
+title: Notes on learning Openmp
+description: "Introduction about OpenMP API"
+categories: articles
+tags: [sample post, images, test]
+---
 ### Introduction
 OpenMP API is used for writing parallel applications for shared memory computers for CPU and GPU architechtures. MPI+OpenMP for CPUs and OpenMP device offload are recommended.
 
